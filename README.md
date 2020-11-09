@@ -9,17 +9,18 @@ Copy with :
 
 <code> git clone https://github.com/OlivierV78/switch_amd_nvidia.git </code>
 
+<code> cd switch_amd_nvidia </code>
+
 <code> chmod +x switch_vers_nvidia </code>
 
 <code> chmod +x switch_vers_amd </code>
 
-
-Then it should be in your ~/switch_amd_nvidia/ directory.
-In this case, open a file explorer of this directory and dobble clic on **Switch AMD.desktop** or **Switch Nvidia.desktop** to do the switch.
-
-If you put it in another directory or if you like to use terminal :
-  * <code> cd PATH_TO_THE_DIRECTORY </code>
+To switch :
   * <code> sudo ./switch_vers_amd  </code>to switch to AMD GPU
   * <code> sudo ./switch_vers_nvidia </code> to switch to AMD GPU
   
   You will need to give your root password to commit the changes.
+
+%%%%%%%%%%%%%%%%%
+
+NOTE 1 : The desktop icons in the folder don't work at the moment
