@@ -1,10 +1,10 @@
 [Desktop Entry]
 Comment[fr_FR]=
 Comment=
-Exec=switch_vers_nvidia
+Exec=~/switch_amd_nvidia/switch_vers_nvidia
 GenericName[fr_FR]=
 GenericName=
-Icon=/home/meloli/switch_amd_nvidia_original/Nvidia-logo.png
+Icon=
 MimeType=
 Name[fr_FR]=Switch Nvidia
 Name=Switch Nvidia
