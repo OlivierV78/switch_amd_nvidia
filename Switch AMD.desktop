@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[fr_FR]=
+Comment=
+Exec=/home/meloli/switch_amd_nvidia/switch_vers_amd
+GenericName[fr_FR]=
+GenericName=
+Icon=/home/meloli/switch_amd_nvidia/AMD-logo.png
+MimeType=
+Name[fr_FR]=Switch AMD
+Name=Switch AMD
+Path=/home/meloli/switch_amd_nvidia
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=none
+X-KDE-SubstituteUID=false
+X-KDE-Username=

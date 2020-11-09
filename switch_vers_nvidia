@@ -1,0 +1,6 @@
+#!/bin/bash
+sudo cp 10-amdgpu.conf_modif /usr/share/X11/xorg.conf.d/10-amdgpu.conf
+sudo cp 10-nvidia.conf_modif /usr/share/X11/xorg.conf.d/10-nvidia.conf
+
+#sudo rm /usr/share/X11/xorg.conf.d/config_amd
+#sudo cp config_nvidia /usr/share/X11/xorg.conf.d/config_nvidia
