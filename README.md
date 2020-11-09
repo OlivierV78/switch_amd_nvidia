@@ -9,7 +9,7 @@ Copy with :
 
 <code> git clone https://github.com/OlivierV78/switch_amd_nvidia.git </code>
 
-Then it should be copy to ~/switch_amd_nvidia/
+Then it should be in your ~/switch_amd_nvidia/ directory.
 In this case, dobble clic on "Switch AMD.desktop" or "Switch Nvidia.desktop" to do the switch.
 
 If you put it in another directory use :
